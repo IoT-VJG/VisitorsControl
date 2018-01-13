@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Control de Visitas</string>
+    <string name="title_page">Control de Visitas</string>
+    <string name="name">Usuario:</string>
+    <string name="name_hint"># de casa</string>
+    <string name="password">Contraseña:</string>
+    <string name="password_hint">Password</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="appVersion">Grupo VJG v1.0</string>
+</resources>
